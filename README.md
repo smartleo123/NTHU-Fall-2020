@@ -1,1 +1,1 @@
-# NTHU-Fall-2020
+Homework and project from the course in National Tsing Hua University
